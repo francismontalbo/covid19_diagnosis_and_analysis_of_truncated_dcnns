@@ -58,8 +58,8 @@ Dependencies included in the `requirements.txt`:
 - Install the requirements on a newly created environment to prevent issues with other existing ones.
 - Open the jupyter-notebooks and proceed with either training or validation.
 **The weight size of the truncated models are very small 😄 the following are located in the `/weights/` folder and can be used immediately.**
-**For the baseline weights of the full-length models you may use the link below to download as they are to large for Github**
-**REMEMBER! Re-producing the baseline results may take large computing resources and a GPU. It is advised to just download the weights and load it on the corresponding notebooks*
+**For the baseline weights of the full-length models you may use the link below to download as they are too large for Github**
+**REMEMBER! Re-producing the baseline results may take large computing resources, long hours, and a GPU. It is advised to just download the weights and load it on the corresponding notebooks*
 
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE WEIGHTS OF THE FULL-LENGTH MODELS</a>
 
