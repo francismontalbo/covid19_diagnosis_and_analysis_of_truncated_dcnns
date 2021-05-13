@@ -9,11 +9,6 @@
 
 <p>CITATION</p>
 
-# Graphical Abstract
-
-<b>Made with <a target=_blank href="https://draw.io">draw.io</a></b>
-<img src="/graphics/Montalbo_graphical_abstract_covid19.jpg" alt="comparative_study" width="1000">
-
 # Dataset: 
 ## CT SCAN
 <p><a href="https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset">Large COVID-19 CT scan slice dataset.</a><p>
