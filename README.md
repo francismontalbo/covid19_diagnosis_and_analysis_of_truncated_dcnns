@@ -33,7 +33,7 @@
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE PREPARED DATASET</a>
 
 # How to use:
-***:heavy_exclamation_mark:If training the model, the dependencies included a `tensorflow-gpu`. You may change the `tensorflow-gpu` to `tensorflow` if no GPU is to be used. However, the results from the paper were produced using a GPU (GTX 1070) and Python 3.5x***
+***:heavy_exclamation_mark:If training the model, the dependencies included a `tensorflow-gpu`. You may change the `tensorflow-gpu` to `tensorflow` if no GPU is to be used. However, the results from the paper were produced using a GPU (GTX 1070) and Python 3.5x because of the baseline full-length models***
 
 Dependencies included in the `requirements.txt`: 
 - jupyter==1.0.0
