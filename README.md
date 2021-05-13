@@ -47,7 +47,7 @@ Dependencies included in the `requirements.txt`:
 - scikit-image
 - scikit-plot
 - scipy
-- tensorflow-gpu==1.14.0 (Note: This is optional and can train even with just a CPU or tensorflow non-gpu variant)
+- tensorflow-gpu==1.14.0 (Note: This is optional if training the truncated versions. However, training the full-length models may require a GPU)
 
 ***:heavy_exclamation_mark: START HERE*** You may clone using git or download the repository and extract the files manually:
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
@@ -57,10 +57,16 @@ Dependencies included in the `requirements.txt`:
 - Clone this repository or download as zip.
 - Install the requirements on a newly created environment to prevent issues with other existing ones.
 - Open the jupyter-notebooks and proceed with either training or validation.
-**The weight size of the truncatedmodels are very small 😄 the follow are located in the `/weights/` folder.**
-**For the full weighst of the full-length models you may use the link below to download as they are to large for Github**
+**The weight size of the truncated models are very small 😄 the following are located in the `/weights/` folder and can be used immediately.**
+**For the baseline weights of the full-length models you may use the link below to download as they are to large for Github**
+**REMEMBER! Re-producing the baseline results may take large computing resources and a GPU. It is advised to just download the weights and load it on the corresponding notebooks*
 
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE WEIGHTS OF THE FULL-LENGTH MODELS</a>
 
+## Major credits to 
+<p>https://github.com/totti0223/gradcamplusplus for the grad-cams.</p>
+<p>Yosuke Toda, Ph.D (Agriculture)</p>
+<p>tyosuke@aquaseerser.com</p>
+<p>JST PRESTO ITbM, Nagoya University, Japan</p>
 
 
