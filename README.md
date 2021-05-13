@@ -1,4 +1,3 @@
-# A Comparative Analysis on the Effects of Layer Truncation in Fined-Tuned DCNNs for Diagnosing SARS-CoV-2 Infected Chest X-Rays and CT Scans
 <p> Author: Francis Jesmar P. Montalbo </p>
 <p> Affiliation: Batangas State University </p>
 <p> Email: francismontalbo@ieee.org </p>
