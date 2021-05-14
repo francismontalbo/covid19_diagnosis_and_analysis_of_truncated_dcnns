@@ -6,7 +6,6 @@
   
 ***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article in INFORMATION FUSION ISSN: 1566-2535 for publication.*** 
 
-
 <p>CITATION</p>
 
 # Dataset: 
@@ -22,7 +21,6 @@
 <p>M. Jun et al., “COVID-19 CT Lung and Infection Segmentation Dataset,” Zenodo, Apr, vol. 20, 2020. Available: https://zenodo.org/record/3757476#.YJfUtrUzZBc.</p>
 <p>"COVID-19." 2020. [Online]. Available: http://medicalsegmentation.com/covid19/.  [Accessed: 02-March-2021].</p>
 
-
 ## CHEST X-RAY
 <p><a href="https://data.mendeley.com/datasets/9xkhgts2s6/1">Curated Dataset for COVID-19 Posterior-Anterior Chest Radiography Images (X-Rays).</a></p>
 <h3>Citation</h3>
@@ -33,7 +31,7 @@
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE PREPARED DATASET</a>
 
 # How to use:
-***:heavy_exclamation_mark:If training the model, the dependencies included a `tensorflow-gpu`. You may change the `tensorflow-gpu` to `tensorflow` if no GPU is to be used. However, the results from the paper were produced using a GPU (GTX 1070) and Python 3.5x because of the baseline full-length models***
+***:heavy_exclamation_mark:If training the model, the dependencies included a `tensorflow-gpu`. You may change the `tensorflow-gpu` to `tensorflow` if no GPU is to be used. However, the results from the paper were produced using a GPU (GTX 1070) and Python 3.5x because of the baseline full-length models.***
 
 Dependencies included in the `requirements.txt`: 
 - jupyter==1.0.0
@@ -63,21 +61,17 @@ Dependencies included in the `requirements.txt`:
 
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE WEIGHTS OF THE FULL-LENGTH MODELS</a>
 
-## Major credits to 
-<p>https://github.com/totti0223/gradcamplusplus for the grad-cams.</p>
-<p>Yosuke Toda, Ph.D (Agriculture)</p>
-<p>tyosuke@aquaseerser.com</p>
-<p>JST PRESTO ITbM, Nagoya University, Japan</p>
 
-## Performance Results of the Truncated Models
+## Performance Results and Specifications of the Truncated Models
 
-<table style="width:100%">
+<table style="width:100%", "text-align: center">
   <tr>
     <th>Model</th>
-    <th>Accuracy</th> 
-    <th>Precision</th>
-    <th>Recall</th>
-    <th>F1-Score</th>
+    <th>Accuracy <i>(%)</i></th> 
+    <th>Precision <i>(%)</i></th>
+    <th>Recall <i>(%)</i></th>
+    <th>F1-Score <i>(%)</i></th>
+    <th>Weight Size <i>(KB)</i></th>
   </tr>
   <tr>
     <td>Truncated InceptionResNetV2</td>
@@ -85,6 +79,7 @@ Dependencies included in the `requirements.txt`:
     <td><strong>97.59%</strong></td>
     <td><strong>97.52%</strong></td>
     <td><strong>97.55%</strong></td>
+    <td>5,338</td>
   </tr>
   <tr>
     <td>Truncated InceptionV3</td>
@@ -92,6 +87,7 @@ Dependencies included in the `requirements.txt`:
     <td>97.46%</td>
     <td>97.40%</td>
     <td>97.43%</td>
+    <td>5,188</td>
   </tr>
    <tr>
     <td>Truncated ResNet50V2</td>
@@ -99,6 +95,7 @@ Dependencies included in the `requirements.txt`:
     <td>87.77%</td>
     <td>86.78%</td>
     <td>87.25%</td>
+    <td>1,081</td>
   </tr>
    <tr>
     <td>Truncated EfficientNetB0</td>
@@ -106,6 +103,7 @@ Dependencies included in the `requirements.txt`:
     <td>88.44%</td>
     <td>86.45%</td>
     <td>87.34%</td>
+    <td>405</td>
   </tr>
    <tr>
     <td>Truncated DenseNet121</td>
@@ -113,6 +111,7 @@ Dependencies included in the `requirements.txt`:
     <td>80.86%</td>
     <td>76.72%</td>
     <td>78.25%</td>
+    <td>714</td>
   </tr>
    <tr>
     <td>Truncated Xception</td>
@@ -120,13 +119,20 @@ Dependencies included in the `requirements.txt`:
     <td>81.11%</td>
     <td>80.43%</td>
     <td>80.25%</td>
+    <td>739</td>
   </tr>
 </table>
+
+## Major credits to 
+<p>https://github.com/totti0223/gradcamplusplus for the grad-cams.</p>
+<p>Yosuke Toda, Ph.D (Agriculture)</p>
+<p>tyosuke@aquaseerser.com</p>
+<p>JST PRESTO ITbM, Nagoya University, Japan</p>
 
 
 ## Citation :black_nib:
 
-This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications
+This GitHub repository serves as a support for the submitted publication article in Information Fusion
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
