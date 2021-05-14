@@ -69,4 +69,66 @@ Dependencies included in the `requirements.txt`:
 <p>tyosuke@aquaseerser.com</p>
 <p>JST PRESTO ITbM, Nagoya University, Japan</p>
 
+## Performance Results of the Truncated Models
+
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th> 
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-Score</th>
+  </tr>
+  <tr>
+    <td>Truncated InceptionResNetV2</td>
+    <td><strong>97.41%</strong></td>
+    <td><strong>97.59%</strong></td>
+    <td><strong>97.52%</strong></td>
+    <td><strong>97.55%</strong></td>
+  </tr>
+  <tr>
+    <td>Truncated InceptionV3</td>
+    <td>97.36%</td>
+    <td>97.46%</td>
+    <td>97.40%</td>
+    <td>97.43%</td>
+  </tr>
+   <tr>
+    <td>Truncated ResNet50V2</td>
+    <td>86.12%</td>
+    <td>87.77%</td>
+    <td>86.78%</td>
+    <td>87.25%</td>
+  </tr>
+   <tr>
+    <td>Truncated EfficientNetB0</td>
+    <td>86.03%</td>
+    <td>88.44%</td>
+    <td>86.45%</td>
+    <td>87.34%</td>
+  </tr>
+   <tr>
+    <td>Truncated DenseNet121</td>
+    <td>77.98%</td>
+    <td>80.86%</td>
+    <td>76.72%</td>
+    <td>78.25%</td>
+  </tr>
+   <tr>
+    <td>Truncated Xception</td>
+    <td>78.82%</td>
+    <td>81.11%</td>
+    <td>80.43%</td>
+    <td>80.25%</td>
+  </tr>
+</table>
+
+
+## Citation :black_nib:
+
+This GitHub repository serves as a support for the submitted publication article in Machine Vision and Applications
+
+[Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
+
+
 
