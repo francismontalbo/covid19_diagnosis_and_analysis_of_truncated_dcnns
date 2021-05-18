@@ -124,7 +124,7 @@ Dependencies included in the `requirements.txt`:
 </table>
 
 ## Major credits to 
-<p>https://github.com/totti0223/gradcamplusplus for the grad-cams.</p>
+<p>https://github.com/totti0223/gradcamplusplus for the grad-cam implementations</p>
 <p>Yosuke Toda, Ph.D (Agriculture)</p>
 <p>tyosuke@aquaseerser.com</p>
 <p>JST PRESTO ITbM, Nagoya University, Japan</p>
