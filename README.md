@@ -129,6 +129,9 @@ Dependencies included in the `requirements.txt`:
 <p>tyosuke@aquaseerser.com</p>
 <p>JST PRESTO ITbM, Nagoya University, Japan</p>
 
+<p>https://github.com/lutzroeder/netron for the Netron model viewer</p>
+
+
 
 ## Citation :black_nib:
 
