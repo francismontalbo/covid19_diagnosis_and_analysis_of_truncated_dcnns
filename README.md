@@ -62,7 +62,7 @@ Dependencies included in the `requirements.txt`:
 <a href="https://drive.google.com/drive/u/1/folders/1wg6uiF-Y-qQobruR0_nv7XqzkvB7ubVj">CLICK ME FOR THE WEIGHTS OF THE FULL-LENGTH MODELS</a>
 
 
-## Performance Results and Specifications of the Truncated Models
+<!-- ## Performance Results and Specifications of the Truncated Models
 
 <table style="width:100%", "text-align: center">
   <tr>
@@ -121,7 +121,7 @@ Dependencies included in the `requirements.txt`:
     <td>80.25%</td>
     <td>739</td>
   </tr>
-</table>
+</table> -->
 
 ## Major credits to 
 <p>https://github.com/totti0223/gradcamplusplus for the grad-cam implementations</p>
