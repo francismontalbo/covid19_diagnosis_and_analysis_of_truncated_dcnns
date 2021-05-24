@@ -10,9 +10,7 @@
 
 # Dataset: 
 ## CT SCAN
-<p><a href="https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset">Large COVID-19 CT scan slice dataset.</a><p>
 <h3>Citation</h3>
-<p>M. Maftouni, "Large COVID-19 CT scan slice dataset", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/maedemaftouni/large-covid19-ct-slice-dataset.</p> 
 <p>X. Yang, X. He, J. Zhao, Y. Zhang, S. Zhang, and P. Xie, “COVID-CT dataset: A CT scan dataset about COVID-19,” 2020, arXiv:2003.13865. [Online]. Available: http://arxiv.org/abs/2003.13865</p>
 <p>P. Afshar et al., “COVID-CT-MD, COVID-19 computed tomography scan dataset applicable in machine learning and deep learning”, Scientific Data, vol. 8, no. 1, 2021. doi: 10.1038/s41597-021-00900-3.</p>
 <p>J. Paul Cohen, P. Morrison, and L. Dao, “COVID-19 image data collection,” 2020, arXiv:2003.11597. [Online]. Available: http://arxiv.org/abs/2003.11597.</p>  
