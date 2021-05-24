@@ -4,7 +4,7 @@
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p>
 ***PLEASE CONTANCT ME IF YOU ARE HAVING TROUBLE. I CAN OFFER ASSITANCE***
   
-***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article in INFORMATION FUSION ISSN: 1566-2535 for publication.*** 
+***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article for publication.*** 
 
 <p>CITATION</p>
 
@@ -135,7 +135,7 @@ Dependencies included in the `requirements.txt`:
 
 ## Citation :black_nib:
 
-This GitHub repository serves as a support for the submitted publication article in Information Fusion
+This GitHub repository serves as a support for the submitted publication article
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
