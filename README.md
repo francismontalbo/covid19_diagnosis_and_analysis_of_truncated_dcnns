@@ -4,14 +4,10 @@
 <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p>
 ***PLEASE CONTANCT ME IF YOU ARE HAVING TROUBLE. I CAN OFFER ASSITANCE***
   
-***:heavy_exclamation_mark:This GitHub repository serves as a support for a submitted article for publication.*** 
-
+***:heavy_exclamation_mark:This GitHub repository serves as the source code for a published paper.*** 
 <p>CITATION</p>
-
 # Paper
-
-#Please Consider Citing. Thank you! 
-
+# Please Consider Citing. Thank you! 
 <p>F. J. P. Montalbo, "Truncating Fined-Tuned Vision-Based Models to Lightweight Deployable Diagnostic Tools for SARS-CoV-2 Infected Chest X-Rays and CT-Scans," Multimedia Tools and Applications, 2022. doi: 10.1007/s11042-022-12484-0.</p>
 
 # Dataset: 
