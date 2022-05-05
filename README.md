@@ -13,7 +13,7 @@
 
 <p>F. J. P. Montalbo, "Truncating Fined-Tuned Vision-Based Models to Lightweight Deployable Diagnostic Tools for SARS-CoV-2 Infected Chest X-Rays and CT-Scans," Multimedia Tools and Applications, 2022. doi: 10.1007/s11042-022-12484-0.</p>
 
-<img src="/image/graphical_abstract.jpg" alt="covid_truncation_dcnn_montalbo_graphical_abstract_2022" width="1000">
+<img src="/image/truncation_covid_preview.png" alt="covid_truncation_dcnn_montalbo_graphical_abstract_2022" width="1000">
 
 # Dataset: 
 ## CT SCAN
