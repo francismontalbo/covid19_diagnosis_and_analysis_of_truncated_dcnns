@@ -8,6 +8,12 @@
 
 <p>CITATION</p>
 
+# Paper
+
+#Please Consider Citing. Thank you! 
+
+<p>F. J. P. Montalbo, "Truncating Fined-Tuned Vision-Based Models to Lightweight Deployable Diagnostic Tools for SARS-CoV-2 Infected Chest X-Rays and CT-Scans," Multimedia Tools and Applications, 2022. doi: 10.1007/s11042-022-12484-0.</p>
+
 # Dataset: 
 ## CT SCAN
 <h3>Citation</h3>
@@ -133,7 +139,7 @@ Dependencies included in the `requirements.txt`:
 
 ## Citation :black_nib:
 
-This GitHub repository serves as a support for the submitted publication article
+<p>F. J. P. Montalbo, "Truncating Fined-Tuned Vision-Based Models to Lightweight Deployable Diagnostic Tools for SARS-CoV-2 Infected Chest X-Rays and CT-Scans," Multimedia Tools and Applications, 2022. doi: 10.1007/s11042-022-12484-0.</p>
 
 [Author Profile](https://scholar.google.com/citations?user=PV8dJDkAAAAJ&hl=en&oi=ao)
 
